@@ -1,0 +1,521 @@
+fileFormatVersion: 2
+guid: 3f88a2e1976cbe540896fe22f2ff203e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mirtha spritesheet_0
+    21300002: mirtha spritesheet_1
+    21300004: mirtha spritesheet_2
+    21300006: Mirtha Attack 3
+    21300008: mirtha spritesheet_4
+    21300010: mirtha spritesheet_5
+    21300012: mirtha spritesheet_6
+    21300014: Mirtha Attack 2
+    21300016: mirtha spritesheet_8
+    21300018: mirtha spritesheet_9
+    21300020: mirtha spritesheet_10
+    21300022: mirtha spritesheet_11
+    21300024: mirtha spritesheet_12
+    21300026: Mirta IDLE
+    21300028: mirtha spritesheet_14
+    21300030: mirtha spritesheet_15
+    21300032: mirtha spritesheet_16
+    21300034: mirtha spritesheet_17
+    21300036: mirtha spritesheet_18
+    21300038: Mirtha Attack 0
+    21300040: Mirtha Attack 1
+    21300042: mirtha spritesheet_21
+  externalObjects: {}
+  serializedVersion: 6
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mirtha spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 720
+        width: 244
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec1b28a5e0596943a6a765632f6d0f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirtha spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 726
+        width: 178
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8abb0752ba1244eb4a1ccbc3b745cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirtha spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 734
+        width: 179
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4215f221e3e78a46be74a2a6a618c3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mirtha Attack 3
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 787
+        width: 255
+        height: 134
+      alignment: 9
+      pivot: {x: 0.20831658, y: 0.43168345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f149b60d81fb9714db7a8d15cc524b71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirtha spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 488
+        width: 243
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2355970a5ca2984e89948df08d34de8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirtha spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 485
+        width: 243
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7566fdb7901cd4da777848d4677dcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirtha spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 551
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e9ce24ccbe67246a335c3832e0d4a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mirtha Attack 2
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 590
+        width: 264
+        height: 134
+      alignment: 9
+      pivot: {x: 0.21392608, y: 0.41460407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5ab7faa816b4b4daaf63ac299c5d14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirtha spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 256
+        width: 243
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585e5d453cf65d74083ef16d698c884d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirtha spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 256
+        width: 243
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daae579fd8dc3a54296601b0123ca2b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirtha spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 312
+        width: 122
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bff3ff59d2045c45976298f6c48795c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirtha spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 385
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8ffc67361e7904dad433cd1d8e646a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirtha spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 24
+        width: 243
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e2e210bb88c5b469a0256fb4e24061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mirta IDLE
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 48
+        width: 110
+        height: 122
+      alignment: 9
+      pivot: {x: 0.45838928, y: 0.47186154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473c8e9ffdad70c48a81ae8598fb7beb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirtha spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 219
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf9abd18a17ba444abdc190cb831e1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mirtha Attack 0
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 140
+        width: 228
+        height: 134
+      alignment: 9
+      pivot: {x: 0.21894488, y: 0.41460443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b4382273cde764fae95010d09b6261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirtha spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 647
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b972cbe8cc2fbf34d862dc1da34c2ef3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mirtha Attack 1
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 365
+        width: 237
+        height: 134
+      alignment: 9
+      pivot: {x: 0.21996118, y: 0.38898593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc5aaabc2f3b874f903dab767b1ee7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mirtha spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 53
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cabdf52f5e643740a9a80f00f3ae61b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3fb4c8fbedfe2274a865a652c8a349aa
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
